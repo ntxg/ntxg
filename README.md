@@ -26,5 +26,5 @@ That's my idol (right)
 </p>
 
 <p align="center">
-  <img src="[https://media.discordapp.net/attachments/995805361728655360/1055234869577392181/krzysieksilkapog.png?width=683&height=683](https://www.popkiller.pl/sites/default/files/images/bedoes-silownia.jpg)https://www.popkiller.pl/sites/default/files/images/bedoes-silownia.jpg">
+  <img src="https://cdn.discordapp.com/attachments/1159931707026313318/1217889068734480517/d29842c433ba036b374708340dc888bd3c224643c84b994cb1166339d23b8d8c.jpg?ex=6605aa95&is=65f33595&hm=feab3f340b01f6969191fd1d96f3ec9932285359f926a66a5a511665e504cd5c&">
 </p>
