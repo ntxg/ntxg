@@ -18,7 +18,7 @@
 
 ***About me:***
 
-I am a 19-year-old backend and frontend developer from 🇵🇱. I am currently working on WildWestRP (first wloff server on RedM). I've been interested in programming since 2k20 and now I'm a developer on top Polish redm servers. 
+I am a 20-year-old backend and frontend developer from 🇵🇱. I am currently working on WildWestRP (first wloff server on RedM). I've been interested in programming since 2k20 and now I'm a developer on top Polish redm servers. 
 
 ---
 <p align="center">
